@@ -42,7 +42,7 @@
 
 
 
-<h2>୨୧ about salma</h2>
+<h2> about salma</h2>
 
 
 
@@ -96,7 +96,7 @@ I like building things that are simple, useful, and a little creative — projec
 
 
 
-<h2>୨୧ currently learning ୨୧</h2>
+<h2> currently learning </h2>
 
 
 
@@ -134,11 +134,8 @@ small tools and experiments
 
 <td width="25%" align="center">
 
-<b>GitHub</b><br>
 
-commits, repos, READMEs
 
-</td>
 
 </tr>
 
@@ -154,7 +151,7 @@ commits, repos, READMEs
 
 
 
-<h2>୨୧ tools \& technologies ୨୧</h2>
+<h2> tools \& technologies </h2>
 
 
 
@@ -174,7 +171,7 @@ commits, repos, READMEs
 
 
 
-<h2>୨୧ project shelf ୨୧</h2>
+<h2> project shelf </h2>
 
 
 
@@ -242,7 +239,7 @@ Simple projects that make learning more practical, visible, and fun.
 
 
 
-<h2>୨୧ github activity ୨୧</h2>
+<h2> github activity </h2>
 
 
 
