@@ -2,19 +2,11 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rounded\&height=150\&color=0:F7C8E0,50:EFC6FF,100:CDE7FF\&text=Salma%20Lashin\&fontSize=42\&fontColor=2B2430\&fontAlignY=42\&desc=learning%20to%20code%20%C2%B7%20building%20little%20projects%20%C2%B7%20growing%20step%20by%20step\&descSize=15\&descAlignY=70" />
-
-
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rounded\&height=140\&color=0:F8C8DC,100:F3E6FF\&text=Salma%20Lashin\&fontSize=42\&fontColor=2B2430\&fontAlignY=42\&desc=learning%20to%20code%20%C2%B7%20building%20small%20projects%20%C2%B7%20growing%20step%20by%20step\&descSize=15\&descAlignY=70" />
 
 
 
 <br>
-
-
-
-<div align="center">
 
 
 
@@ -42,11 +34,9 @@ Hi, I’m \*\*Salma\*\*.
 
 
 
-I’m currently learning programming and building my skills through small projects, practice, and consistency. I’m interested in creating things that are simple, useful, and cute — while improving my logic, problem-solving, and confidence with code.
+I’m learning programming through small projects, practice, and consistency.  
 
-
-
-Right now, I’m focused on learning step by step and turning what I practice into visible projects on GitHub.
+Right now, I’m focused on building confidence with code, improving my problem-solving skills, and creating simple projects that help me learn by doing.
 
 
 
@@ -55,10 +45,6 @@ Right now, I’m focused on learning step by step and turning what I practice in
 
 
 \## ୨୧ currently learning
-
-
-
-<div align="center">
 
 
 
@@ -73,10 +59,6 @@ Right now, I’m focused on learning step by step and turning what I practice in
 | \*\*github\*\* | repositories, commits, and documentation |
 
 | \*\*growth\*\* | consistency, practice, and confidence |
-
-
-
-</div>
 
 
 
@@ -104,7 +86,7 @@ Right now, I’m focused on learning step by step and turning what I practice in
 
 
 
-\## ୨୧ little project shelf
+\## ୨୧ project shelf
 
 
 
@@ -120,7 +102,7 @@ Right now, I’m focused on learning step by step and turning what I practice in
 
 
 
-Small exercises and beginner-friendly programs to build programming confidence.
+Small exercises and beginner programs to build programming confidence.
 
 
 
@@ -130,11 +112,11 @@ Small exercises and beginner-friendly programs to build programming confidence.
 
 
 
-\### ✧ projects
+\### ✧ mini projects
 
 
 
-Cute and useful mini projects that make learning more fun and practical.
+Simple projects that make learning more fun, practical, and visible.
 
 
 
@@ -148,7 +130,7 @@ Cute and useful mini projects that make learning more fun and practical.
 
 
 
-Learning how to organize repositories, write READMEs, and build a visible portfolio.
+Learning how to organize repositories, write READMEs, and build a portfolio.
 
 
 
